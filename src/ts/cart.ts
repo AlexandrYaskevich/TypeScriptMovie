@@ -5,5 +5,4 @@ export default class Cart {
     add(item: Movie): void {
         this.items.push(item);
       }
-
 }
