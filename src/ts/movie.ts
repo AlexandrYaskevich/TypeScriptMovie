@@ -19,6 +19,6 @@ export default class Movie implements Buyable{
             this.country = country;
             this.slogan = slogan;
             this.genre =genre;
-            this.time = time;  
+            this.time = time; 
   }
 }
